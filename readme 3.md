@@ -66,6 +66,8 @@ This project demonstrates the implementation and application of **Stack** and **
 
 - **Conclusion**: Queue is fair and suitable for real-life services like hospitals.
 
+<img width="1413" height="762" alt="Image" src="https://github.com/user-attachments/assets/9fc8592b-0b98-4b2c-85c7-619ffb682a7c" />
+
 
 
 
