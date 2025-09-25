@@ -22,4 +22,5 @@ This project demonstrates fundamental Python operations in the context of a reta
  Dictionaries
 - Manages item data with IDs, names, and values.
 - Supports update, delete, and value summarization.
-  
+
+  <img width="1447" height="879" alt="Image" src="https://github.com/user-attachments/assets/c73fe315-e66e-4915-9425-deb83114b7ad" />
